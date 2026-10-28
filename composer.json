@@ -1,0 +1,19 @@
+{
+    "name": "promo-code/web-anvil",
+    "license": "MIT",
+    "description": "A simple PHP factory/forge static class",
+    "authors": [
+        {
+            "name": "Michael Kelly",
+            "email": "mkelly@newmediaretailer.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WebAnvil\\": "src/WebAnvil/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
